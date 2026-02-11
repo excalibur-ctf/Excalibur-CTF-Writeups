@@ -104,6 +104,7 @@ Extracting all hexadecimal values from the `movb` instructions:
 ```
 
 Converting to ASCII:
+can be done manually or using cyberchef/dcode.fr
 
 ```
 RVhDezFfczBsM21ubHlfJHczYXRfMV80bV91cF90b19uMF9nMDBkfQ==
@@ -115,7 +116,7 @@ The string terminates with `==`, which is characteristic of Base64 padding. This
 
 ## Step 6: Base64 Decoding
 
-Decoding the Base64 string:
+Decoding the Base64 string using online tools like cyberchef/dcode.fr:
 
 ```bash
 echo "RVhDezFfczBsM21ubHlfJHczYXRfMV80bV91cF90b19uMF9nMDBkfQ==" | base64 -d
@@ -128,3 +129,4 @@ EXC{1_s0l3mnly_$w3at_1_4m_up_t0_n0_g00d}
 ```
 
 **Flag:** `EXC{1_s0l3mnly_$w3at_1_4m_up_t0_n0_g00d}`
+
