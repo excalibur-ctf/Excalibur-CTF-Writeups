@@ -1,5 +1,5 @@
 ## Description
-The Excalibur flag is locked behind ancient Hogwarts magic. The portal claims only the Headmaster (admin) can access the Chamber of Secrets—but magic often fails in the details. Your role shows as Student. Find a way to obtain administrative access and reveal the hidden flag. No brute force. Think like a wizard… and a hacker.
+A simple web challenge that returns a fake flag when you spell it directly. Try a different approach — the main page itself reveals the real flag.
 
 ## Solution
 
