@@ -1,0 +1,7 @@
+title - sus patterns
+
+Description:
+A feather from Hedwig was found beside a parchment of shifting letters — repeat her name wisely, and the message will reveal itself.
+
+cipher - DHB{TOUHHYR0CA_1P_BJKH}
+
