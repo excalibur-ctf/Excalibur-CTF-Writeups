@@ -1,7 +1,5 @@
-# The Map - Reverse Engineering Write-Up
+# What The Map Hides - Reverse Engineering Write-Up
 
-**Challenge Name:** the_map  
-**Category:** Reverse Engineering  
 **File Type:** 64-bit ELF (PIE, dynamically linked, not stripped)
 
 ## Challenge Overview
@@ -125,8 +123,9 @@ echo "RVhDezFfczBsM21ubHlfJHczYXRfMV80bV91cF90b19uMF9nMDBkfQ==" | base64 -d
 Result:
 
 ```
-EXC{1_s0l3mnly_$w3at_1_4m_up_t0_n0_g00d}
+EXC{1_s0l3mnly_$w3ar_1_4m_up_t0_n0_g00d}
 ```
 
-**Flag:** `EXC{1_s0l3mnly_$w3at_1_4m_up_t0_n0_g00d}`
+**Flag:** `EXC{1_s0l3mnly_$w3ar_1_4m_up_t0_n0_g00d}`
+
 
